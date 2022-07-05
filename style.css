@@ -282,7 +282,9 @@ a:hover {
     padding-right: 0;
     padding-left: 0;
 }
-
+.row {
+    padding-left: 10px;
+}
 #bloc-1-hero h1 {
     font-size: 32px;
 }
