@@ -476,7 +476,8 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 36px!important;
+    color: white!important;
 }
 
 .icon-lg {
@@ -642,7 +643,6 @@ a[data-lightbox]:hover img {
 h1,
 h2,
 h3,
-h4,
 h5,
 h6,
 p,
@@ -652,6 +652,10 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
+}
+
+.text-center {
+    font-size: 18px;
 }
 
 .container {
@@ -677,7 +681,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -686,7 +690,7 @@ p {
 }
 
 .h1 {
-    font-size: 20px;
+    font-size: 36px;
     font-family: "Open Sans";
 }
 
@@ -705,15 +709,28 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 28px!important;
     line-height: 1.4em;
+    font-weight: bold;
+    color: #333333!important;
 }
 
 h3 {
-    font-size: 15px;
-    text-transform: uppercase;
-    font-weight: 700;
+    font-size: 26px!important;
+    font-weight: bold;
     color: #333333!important;
+}
+
+h4 {
+    font-size: 24px!important;
+    font-weight: bold;
+    color: white!important;
+}
+
+h5 {
+    font-size: 20px!important;
+    font-weight: bold;
+    color: white!important;
 }
 
 .med-width-whitespace {
@@ -726,9 +743,7 @@ h1 {
     color: #333333!important;
 }
 
-h4 {
-    color: #333333!important;
-}
+
 
 .icons {
     margin-bottom: 14px;
