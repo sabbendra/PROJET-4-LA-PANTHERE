@@ -28,7 +28,7 @@ a:hover {
 }
 
 .bloc {
-    width: 100%;
+    /*width: 100%;*/
     clear: both;
     background: 50% 50% no-repeat;
     padding: 0 50px;
@@ -98,6 +98,7 @@ a:hover {
 .nav-font-size {
     font-size: 24px;
     font-weight: 500;
+    padding-right: 10px;
     color: #000000!important;
 }
 
@@ -336,6 +337,7 @@ a:hover {
     font-size: 16px;
 }
 
+
 .navbar-nav .open .dropdown-menu > li > a {
     text-align: inherit;
 }
@@ -519,6 +521,11 @@ button {
     box-shadow: none;
 }
 
+.form-group {
+    color: #000000!important;
+    font-size: 18px;
+    padding-bottom: 5px;
+}
 .scrollToTop {
     width: 40px;
     height: 40px;
@@ -672,6 +679,8 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    color: #000000!important;
+    text-align: center;
 }
 
 .hero-bloc-text-sub {
@@ -799,6 +808,13 @@ h1 {
 
 .tc-white {
     color: #F3976C!important;
+}
+
+.p-contact {
+    color:#000000!important;
+    font-weight: 500;
+    text-align: center;
+    font-size: 22px;
 }
 
 .btn-atomic-tangerine {
