@@ -95,6 +95,12 @@ a:hover {
     background-size: 280px 280px;
 }
 
+.nav-font-size {
+    font-size: 24px;
+    font-weight: 500;
+    color: #000000!important;
+}
+
 .b-parallax {
     background-attachment: fixed;
 }
