@@ -524,7 +524,7 @@ button {
 .form-group {
     color: #000000!important;
     font-size: 18px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 }
 .scrollToTop {
     width: 40px;
@@ -666,11 +666,12 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color:black!important;
+    font-size: 18px;
 }
 
 .text-center {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .container {
@@ -745,7 +746,7 @@ h4 {
 }
 
 h5 {
-    font-size: 20px!important;
+    font-size: 22px!important;
     font-weight: bold;
     color: white!important;
 }
@@ -768,7 +769,14 @@ h1 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color:#000000!important;
+    font-weight: bold;
+    font-size: 20px!important;
+}
+
+.white-bloc-3 {
+    color:white!important;
+    font-weight: bold;
 }
 
 .portfolio-thumb {
